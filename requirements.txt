@@ -1,0 +1,8 @@
+Commands for installing packages:
+!pip install torch torchvision torchaudio
+!pip install transformers
+!pip install pandas
+!pip install pynvml
+!pip install mediapipe opencv-python
+!pip install rouge-score
+!pip install nltk
